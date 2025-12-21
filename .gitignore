@@ -6,3 +6,4 @@ pgadmin_data/
 
 # Docker
 docker-compose.override.yml
+.env
