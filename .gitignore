@@ -1,9 +1,8 @@
 # Environment variables with secrets
-. env
+.env
 
 # Docker volumes
 pgadmin_data/
 
 # Docker
 docker-compose.override.yml
-.env
