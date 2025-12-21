@@ -20,7 +20,7 @@ A secure, containerized pgAdmin 4 setup using Docker Compose for local PostgreSQ
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bikirandev/docker-pgadmin.git
    cd docker-pgadmin
    ```
 
