@@ -157,7 +157,7 @@ For production use, consider:
 
 ## 📄 License
 
-MIT License - see the [LICENSE](https://github.com/bikirandev/docker-pgadmin/blob/master/LICENSE) file for details.
+MIT License - see the [LICENSE](https://github.com/bikirandev/docker-pgadmin/blob/main/LICENSE) file for details.
 
 ## 👨‍💻 Author
 
